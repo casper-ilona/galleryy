@@ -1,0 +1,23 @@
+.main__work {
+    text-align: center;
+    padding: 100px 0 100px 0;
+
+}
+
+.main__work h1 {
+    margin-bottom: 30px;
+
+}
+
+.main__work p {
+    margin-bottom: 175px;
+    color: #6c6c6c;
+}
+
+.main__work img:hover {
+}
+
+img {
+    width: 263px;
+    height: 237px;
+}
